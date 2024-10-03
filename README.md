@@ -13,3 +13,6 @@ This is a flutter mini e-commerce project that uses Sqlite for the backend for a
 - Run `flutter pub get`
 - Run `flutter run`
 
+### Author
+
+- [Junior Hirwa](github.com/HIRWA13)
