@@ -1,16 +1,15 @@
-# flutter_ecommerce
+# Flutter Buy
 
-A new Flutter project.
+This is a flutter mini e-commerce project that uses Sqlite for the backend for autthentication and product management.
 
-## Getting Started
+## Feature included: 
 
-This project is a starting point for a Flutter application.
+- Authentication
+- Product Management
 
-A few resources to get you started if this is your first Flutter project:
+## How to run the project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Clone the project
+- Run `flutter pub get`
+- Run `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
